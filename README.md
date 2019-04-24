@@ -142,7 +142,7 @@ go get github.com/go-sql-driver/mysql
 
 ``` conf
 server {
-listen 8088;
+listen 8080;
 server_name localhost;
 charset utf-8;
 access_log /var/www/blogCMS.log  main;
